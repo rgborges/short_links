@@ -1,6 +1,6 @@
-# Introducton
+# Introduction
 
-This project was done along with Diego Fernandes as a training for Node JS. The application is a simple short link api where you can post a code with a url. Then you can request the code direct through url and get redirected to the final url.
+This project was done along with Diego Fernandes as a training for Node JS. The application is a simple short link api where you can post a code with a url. Then you can request the code directly through url and get redirected to the final url.
 
 
 ## Usage
@@ -18,7 +18,7 @@ Content-Type: application/json
 }
 ```
 
-Then the link is avalible via get:
+Then the link is available via get:
 ```
 GET http://localhost:3333/rocketseat
 ```
